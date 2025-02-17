@@ -1,0 +1,11 @@
+Mods Required
+-Applied Energistics 2
+-Ars Nouveau
+-Create
+-Botania
+-Powah
+-Create Crafts & Additions(or another mod adding #forge:wires/copper)
+-KubeJS
+-KubeJS Ars Nouveau
+-KubeJS Create
+-KubeJS Powah
