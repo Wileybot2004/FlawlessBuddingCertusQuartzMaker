@@ -1,4 +1,4 @@
-Mods Required
+--Mods Required--
 -Applied Energistics 2
 -Ars Nouveau
 -Create
@@ -9,3 +9,9 @@ Mods Required
 -KubeJS Ars Nouveau
 -KubeJS Create
 -KubeJS Powah
+
+
+--HOW TO USE--
+Install KubeJS and Required mods, including requirements for mods listed above.
+Copy the folers into your .minecraft/kubejs folder
+Run the game!
