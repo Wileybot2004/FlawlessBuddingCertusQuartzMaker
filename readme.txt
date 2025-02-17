@@ -13,5 +13,5 @@
 
 --HOW TO USE--
 Install KubeJS and Required mods, including requirements for mods listed above.
-Copy the folers into your .minecraft/kubejs folder
+Copy the folders into your .minecraft/kubejs folder
 Run the game!
